@@ -1,0 +1,1 @@
+angular js based weather app widget using yahoo weather api
